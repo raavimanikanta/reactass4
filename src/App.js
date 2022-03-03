@@ -1,9 +1,9 @@
 import React from "react"
 import { BrowserRouter as Router,Routes,Route,Link } from "react-router-dom"
-import Home from "./Home"
-import Student from "./Student"
-import Contact from "./Contact"
-import Navbar from "./Navbar"
+import Home from "./Components/Home"
+import Student from "./Components/Student"
+import Contact from "./Components/Contact"
+import Navbar from "./Components/Navbar"
 
 const App =() => {
     return(
